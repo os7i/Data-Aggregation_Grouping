@@ -1,5 +1,7 @@
-SubjectID,SubjectName,StudentGender,AverageMathScore
-1,Math,male,47.0
-2,Reading,,
-3,Writing,,
-4,Science,,
+SubjectID,SubjectName,StudentGender,AverageScore,StudentCount,MinScore,MaxScore
+101,Math,female,63.633204633204635,518,0,100
+101,Math,male,68.72821576763485,482,27,100
+102,Reading,female,72.60810810810811,518,17,100
+102,Reading,male,65.47302904564316,482,23,100
+103,Writing,female,72.46718146718146,518,10,100
+103,Writing,male,63.31120331950208,482,15,100
